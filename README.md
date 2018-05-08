@@ -1,1 +1,1 @@
-# Ejercicios del arbol familiar y la nomina en prolog.
+# Ejercicios del arbol familiar y la nomina en Prolog. 
